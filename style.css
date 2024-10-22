@@ -142,14 +142,14 @@ a{
 
 @media(max-width: 720px){
     .video video{
-    width: 175px;
+    width: 170px;
     }
     .video{
         margin-top: 5%;
         margin-left: 15%;
         width: 300px;
         height: 100%;
-        left: -65px;
+        left: -43px;
     }
 
     .ceta{
@@ -163,7 +163,7 @@ a{
     }
     .Caixa_Sobre_link{
         top: 127%;
-        left: 5%; 
+        left: 4%; 
     }
     .box{
         margin-top: 30%;
