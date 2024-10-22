@@ -142,14 +142,14 @@ a{
 
 @media(max-width: 720px){
     .video video{
-    width: 170px;
+    width: 200px;
     }
     .video{
         margin-top: 5%;
         margin-left: 15%;
         width: 300px;
         height: 100%;
-        left: -43px;
+        left: -53px;
     }
 
     .ceta{
