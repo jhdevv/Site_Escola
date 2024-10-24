@@ -96,6 +96,15 @@ a{
     width: 270px;
 }
 
+.video img {
+    width: 100%; /* A imagem ocupará 100% do bloco */
+    height: auto;
+    object-fit: cover; /* A imagem se ajusta sem distorção */
+    border: 2px solid none;
+    width: 270px;
+    height: 152px;
+}
+
 
 .ceta{
     width: 1px;
